@@ -1,0 +1,30 @@
+* {
+    background-color: bisque;   
+}
+.Banner {
+    float: left;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(247, 198, 134);
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.Main {
+    text-align: left;
+    float: left;
+    width: 69.5%;
+    height: 650px;
+    background-color: bisque;
+}
+.Menu {
+    float: right;
+    width: 30%;
+    height: 650px;
+    background-color: rgb(247, 198, 134);
+}
+table {
+    text-align: center;
+}
